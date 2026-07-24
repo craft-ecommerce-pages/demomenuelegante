@@ -1,0 +1,17 @@
+{
+  "badge_category": "chef",
+  "categories": {
+    "makis": "Makis",
+    "nigiri": "Nigiri",
+    "sashimi": "Sashimi",
+    "entradas": "Entradas",
+    "bebidas": "Bebidas"
+  },
+  "currency": "$",
+  "site_title": "Sakura Sushi — Menú",
+  "store_name": "Sakura Sushi",
+  "theme_primary": "#C9A96E",
+  "theme_accent": "#E8D5A3",
+  "whatsapp_message": "¡Hola! Me gustaría hacer un pedido:",
+  "whatsapp_number": "593963769671"
+}

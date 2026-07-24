@@ -1,0 +1,122 @@
+[
+  {
+    "id": "sk-001",
+    "slug": "salmon-roll",
+    "nombre": "Salmon Roll",
+    "precio": 12.50,
+    "precio_promo": "",
+    "categorias": ["makis"],
+    "descripcion": "8 piezas con salmón noruego fresco, aguacate y queso crema. Cubierto con sésamo dorado y salsa ponzu.",
+    "stock": null,
+    "imagenes": [],
+    "variantes": [],
+    "sku": "MK-001"
+  },
+  {
+    "id": "sk-002",
+    "slug": "dragon-roll",
+    "nombre": "Dragon Roll",
+    "precio": 15.90,
+    "precio_promo": "",
+    "categorias": ["makis", "chef"],
+    "descripcion": "Tempura de camarón, pepino y aguacate, cubierto con láminas de palta y salsa eel. La firma de la casa.",
+    "stock": null,
+    "imagenes": [],
+    "variantes": [],
+    "sku": "MK-002"
+  },
+  {
+    "id": "sk-003",
+    "slug": "nigiri-salmón",
+    "nombre": "Nigiri Salmón",
+    "precio": 9.50,
+    "precio_promo": "",
+    "categorias": ["nigiri"],
+    "descripcion": "4 piezas de arroz de sushi prensado con láminas de salmón atlántico curado en sal. Servido con wasabi.",
+    "stock": null,
+    "imagenes": [],
+    "variantes": [
+      {
+        "name": "Piezas",
+        "options": [
+          { "label": "4 piezas", "price": 9.50 },
+          { "label": "8 piezas", "price": 17.00 }
+        ]
+      }
+    ],
+    "sku": "NG-001"
+  },
+  {
+    "id": "sk-004",
+    "slug": "sashimi-mix",
+    "nombre": "Sashimi Mix",
+    "precio": 18.00,
+    "precio_promo": "",
+    "categorias": ["sashimi", "chef"],
+    "descripcion": "Selección del chef: atún, salmón, hamachi y pulpo. 12 láminas cortadas al momento. Sin arroz.",
+    "stock": null,
+    "imagenes": [],
+    "variantes": [],
+    "sku": "SA-001"
+  },
+  {
+    "id": "sk-005",
+    "slug": "edamame",
+    "nombre": "Edamame",
+    "precio": 4.50,
+    "precio_promo": "",
+    "categorias": ["entradas"],
+    "descripcion": "Vainas de soja verde cocidas al vapor con sal de mar y toque de aceite de sésamo. El inicio perfecto.",
+    "stock": null,
+    "imagenes": [],
+    "variantes": [],
+    "sku": "EN-001"
+  },
+  {
+    "id": "sk-006",
+    "slug": "miso-soup",
+    "nombre": "Sopa Miso",
+    "precio": 3.50,
+    "precio_promo": "",
+    "categorias": ["entradas"],
+    "descripcion": "Caldo dashi con pasta de miso, tofu sedoso, alga wakame y cebolla de verdeo. Reconfortante y ligera.",
+    "stock": null,
+    "imagenes": [],
+    "variantes": [],
+    "sku": "EN-002"
+  },
+  {
+    "id": "sk-007",
+    "slug": "sake-caliente",
+    "nombre": "Sake Caliente",
+    "precio": 6.00,
+    "precio_promo": "",
+    "categorias": ["bebidas"],
+    "descripcion": "Vino de arroz japonés servido caliente en cerámica tradicional. Suave y aromático.",
+    "stock": null,
+    "imagenes": [],
+    "variantes": [],
+    "sku": "BE-001"
+  },
+  {
+    "id": "sk-008",
+    "slug": "matcha-latte",
+    "nombre": "Matcha Latte",
+    "precio": 4.00,
+    "precio_promo": "",
+    "categorias": ["bebidas"],
+    "descripcion": "Té matcha ceremonial con leche vegetal de avena. Servido frío o caliente.",
+    "stock": null,
+    "imagenes": [],
+    "variantes": [
+      {
+        "name": "Temperatura",
+        "options": [
+          { "label": "Frío", "price": 4.00 },
+          { "label": "Caliente", "price": 4.00 }
+        ]
+      }
+    ],
+    "sku": "BE-002"
+  }
+]
