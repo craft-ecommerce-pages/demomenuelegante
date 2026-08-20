@@ -10,7 +10,7 @@
     ],
     "descripcion": "8 piezas con salmón noruego fresco, aguacate y queso crema. Cubierto con sésamo dorado y salsa ponzu.",
     "stock": null,
-    "imagenes": [],
+    "imagenes": ["/producto/salmon-roll.webp"],
     "variantes": [],
     "sku": "MK-001"
   },
@@ -26,7 +26,7 @@
     ],
     "descripcion": "Tempura de camarón, pepino y aguacate, cubierto con láminas de palta y salsa eel. La firma de la casa.",
     "stock": null,
-    "imagenes": [],
+    "imagenes": ["/producto/dragon-woll.webp"],
     "variantes": [],
     "sku": "MK-002"
   },
@@ -41,7 +41,7 @@
     ],
     "descripcion": "4 piezas de arroz de sushi prensado con láminas de salmón atlántico curado en sal. Servido con wasabi.",
     "stock": null,
-    "imagenes": [],
+    "imagenes": ["/producto/niguiri-salmon.webp"],
     "variantes": [
       {
         "name": "Piezas",
@@ -71,7 +71,7 @@
     ],
     "descripcion": "Selección del chef: atún, salmón, hamachi y pulpo. 12 láminas cortadas al momento. Sin arroz.",
     "stock": null,
-    "imagenes": [],
+    "imagenes": ["/producto/sashimi-mix.webp"],
     "variantes": [],
     "sku": "SA-001"
   },
@@ -86,7 +86,7 @@
     ],
     "descripcion": "Vainas de soja verde cocidas al vapor con sal de mar y toque de aceite de sésamo. El inicio perfecto.",
     "stock": null,
-    "imagenes": [],
+    "imagenes": ["/producto/edamame.webp"],
     "variantes": [],
     "sku": "EN-001"
   },
@@ -101,7 +101,7 @@
     ],
     "descripcion": "Caldo dashi con pasta de miso, tofu sedoso, alga wakame y cebolla de verdeo. Reconfortante y ligera.",
     "stock": null,
-    "imagenes": [],
+    "imagenes": ["/producto/sopa-miso.webp"],
     "variantes": [],
     "sku": "EN-002"
   },
@@ -116,7 +116,7 @@
     ],
     "descripcion": "Vino de arroz japonés servido caliente en cerámica tradicional. Suave y aromático.",
     "stock": null,
-    "imagenes": [],
+    "imagenes": ["/producto/sake-caliente.jpeg"],
     "variantes": [],
     "sku": "BE-001"
   },
@@ -131,7 +131,7 @@
     ],
     "descripcion": "Té matcha ceremonial con leche vegetal de avena. Servido frío o caliente.",
     "stock": null,
-    "imagenes": [],
+    "imagenes": ["producto/matcha-latte.webp"],
     "variantes": [
       {
         "name": "Temperatura",
